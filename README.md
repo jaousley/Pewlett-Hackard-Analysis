@@ -7,7 +7,7 @@ Pewlett-Hackard wants to be prepared to fill the large number of positions that 
 ## Results 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed
 
-INSERT IMAGE
+![retiring_titles.png](https://github.com/jaousley/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
 
 - More than half of the staff retiring soon hold senior positions. Pewlett-Hackard will need to train and promote other employees to fill these positions or hire from the outside. 
 
