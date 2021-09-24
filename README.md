@@ -5,9 +5,10 @@ Pewlett-Hackard wants to be prepared to fill the large number of positions that 
 
 
 ## Results 
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed
 
 ![retiring_titles.png](https://github.com/jaousley/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
+
+### Analysis
 
 - More than half of the staff retiring soon hold senior positions. Pewlett-Hackard will need to train and promote other employees to fill these positions or hire from the outside. 
 
@@ -18,7 +19,6 @@ Provide a bulleted list with four major points from the two analysis deliverable
 - Neither of the managers are eligible for the mentorship program 
 
 ## Summary 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 90,398 positions will need to be filed as the "silver tsunami" begins to make an impact. Most of the positions are senior level positions, specifically senior engineers and senior staff. There are only 1,549 employees eligible for the mentorship program. Not every eligible employee will want to participate and even if they all did it would not be enough to fill the gap for the potential 90,398 vacant positions. 
 
